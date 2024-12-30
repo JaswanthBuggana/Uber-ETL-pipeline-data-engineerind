@@ -18,7 +18,6 @@ Google Cloud Platform
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
 
 
 ## Dataset Used
@@ -34,5 +33,4 @@ More info about dataset can be found here:
 ## Data Model
 <img src="data_model.jpeg">
 
-## Complete Video Tutorial 
-Video Link - https://youtu.be/WpQECq5Hx9g
+
